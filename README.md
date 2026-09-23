@@ -49,4 +49,4 @@ All of my game projects are available on my **[itch.io](https://despacitos.itch.
 
 ### Projects
 
-All of my projects are available on my **[itch.io](https://mofflan.github.io/)**.
+All of my projects are available on my **[portfolio](https://mofflan.github.io/)**.
