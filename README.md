@@ -43,6 +43,10 @@
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></a>
 </p>
 
+### Game Projects
+
+All of my game projects are available on my **[itch.io](https://despacitos.itch.io/)**.
+
 ### Projects
 
-All of my projects are available on my **[portfolio](https://mofflan.github.io/)**.
+All of my projects are available on my **[itch.io](https://mofflan.github.io/)**.
